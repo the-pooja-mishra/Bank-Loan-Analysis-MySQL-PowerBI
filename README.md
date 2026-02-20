@@ -86,3 +86,4 @@ To simulate a real-world banking analytics scenario and transform raw financial 
 
 Screenshot/ Demos
 
+![Dashboard Preview](https://github.com/the-pooja-mishra/Bank-Loan-Analysis-MySQL-PowerBI/blob/main/Bank_Loan_Summary.png)
